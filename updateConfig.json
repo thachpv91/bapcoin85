@@ -7,7 +7,7 @@
 },
 "updates_client": {
 "latest-version": "1.0",
-"required-version": "0.1",
+"required-version": "0.2",
 "download-url": "https://drive.google.com/uc?export=download&id=0B4V5yyeUrsW9b2NVbnJqRS14SWM",
 "changelog": "This is an example changelog for Linux. Go on..."
 }
