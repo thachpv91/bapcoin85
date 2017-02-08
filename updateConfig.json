@@ -1,0 +1,14 @@
+{
+"updates_central": {
+"latest-version": "1.0",
+"required-version": "0.1",
+"download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpng",
+"changelog": "This is an example changelog for Windows. Go on..."
+},
+"updates_client": {
+"latest-version": "1.0",
+"required-version": "0.1",
+"download-url": "https://drive.google.com/uc?export=download&id=0B4V5yyeUrsW9b2NVbnJqRS14SWM",
+"changelog": "This is an example changelog for Linux. Go on..."
+}
+} 
